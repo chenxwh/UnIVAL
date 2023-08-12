@@ -15,7 +15,7 @@ This source code is licensed under the Apache 2.0 license found in the LICENSE f
 
 
 <p align="center">
-        &nbsp<a href="https://unival-model.github.io/">Project Page</a> &nbsp | &nbsp<a href="https://arxiv.org/abs/2307.16184">Paper </a>&nbsp | &nbsp<a href="https://huggingface.co/spaces/mshukor/UnIVAL">Demo</a>&nbsp | &nbsp<a href="#datasets-and-checkpoints">Checkpoints</a>&nbsp 
+        &nbsp<a href="https://unival-model.github.io/">Project Page</a> &nbsp | &nbsp<a href="https://arxiv.org/abs/2307.16184">Paper </a>&nbsp | &nbsp<a href="https://huggingface.co/spaces/mshukor/UnIVAL">Demo</a>&nbsp  |  &nbsp<a href="https://replicate.com/cjwbw/unival">Replicate Demo</a>&nbsp  | &nbsp<a href="#datasets-and-checkpoints">Checkpoints</a>&nbsp 
 </p>
 
 
